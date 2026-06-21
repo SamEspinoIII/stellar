@@ -24,5 +24,11 @@ To empower grassroots, faith-based institutions with transparent cryptographic f
 * Target `wasm32-unknown-unknown` installed
 
 ## How to Build
+
+![pic](blockchainPic.png)
+
+
 ```bash
 soroban contract build
+
+CDG4B5AM7TDWYMHA54RTBZJAOY6QZ6SU767HGRK7H4LPEHO7TQBXIKQU
